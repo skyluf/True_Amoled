@@ -1,0 +1,27 @@
+{
+    "manifest": {
+        "author": "skyluf#9293",
+        "name": "True Amoled. ",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -1192619,
+        "mention_highlight": 902943185,
+        "active_channel": 1811077760,
+        "blocked_bg": -11184811,
+        "background": -16777216,
+        "background_secondary": -16053493,
+        "input_background": -14013910
+    },
+    "colors": {
+        "brand_new_560": -1192619,
+        "primary_700": -15658735,
+        "link": -11824171
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -11184811
+    },
+    "raws": {}
+}
